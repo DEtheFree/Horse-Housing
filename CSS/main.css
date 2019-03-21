@@ -8,6 +8,10 @@ body { /* General style rules for the body section */
 	background-color:black;
 	color: lightblue;
 	text-align: center;
+	background-image: url(/"images/hallway-with-red-doors.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+
 }
 
 h1 { /* Matches elements with h1 tag */
