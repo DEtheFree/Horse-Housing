@@ -18,5 +18,15 @@ body {
 	border-style: solid groove;
 	border-width: 5px;
 	border-color: green;
-	width: 50%;
+	width: 30%;
+	float: left;
+}
+
+#div2{
+	border-style: solid groove;
+	border-width: 5px;
+	border-color: green;
+	width: 30%;
+	margin: 10%;
+	float: right;
 }
