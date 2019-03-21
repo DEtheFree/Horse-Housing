@@ -9,7 +9,14 @@ body { /* General style rules for the body section */
 }
 
 body {
-	background-image: url("/images/Twodoors.png");
+	background-image: url("/images/Twodoors.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
+}
+
+#div1{
+	border-style: solid groove;
+	border-width: 5px;
+	border-color: green;
+	width: 50%;
 }
