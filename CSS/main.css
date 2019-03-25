@@ -37,3 +37,15 @@ body {
 	top: 52%;
 	left: 71%;
 }
+
+#duck {
+ width: 92px;
+ height: 88px;
+ background: url("/images/BurntDuckHorse.png") 0 0;
+}
+
+#panda {
+ width: 43px;
+ height: 44px;
+ background: url("/images/Pandaonhorse.png") -91px 0;
+}
