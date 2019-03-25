@@ -37,3 +37,16 @@ body {
 	top: 52%;
 	left: 71%;
 }
+
+#div5{
+/*	border-style: solid groove; */
+	border-width: 5px;
+	/* border-color: green; */
+	width: 2%;
+	height: 4%;
+	margin: 5%;
+	position: absolute;
+	bottom: 100%;
+	left: 71%;
+  top: 100%
+}
