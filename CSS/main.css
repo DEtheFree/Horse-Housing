@@ -38,6 +38,7 @@ body {
 	left: 71%;
 }
 
+<<<<<<< HEAD
 #duck {
  width: 92px;
  height: 88px;
@@ -48,4 +49,17 @@ body {
  width: 43px;
  height: 44px;
  background: url("/images/Pandaonhorse.png") -91px 0;
+=======
+#div5{
+/*	border-style: solid groove; */
+	border-width: 5px;
+	/* border-color: green; */
+	width: 2%;
+	height: 4%;
+	margin: 5%;
+	position: absolute;
+	bottom: 100%;
+	left: 71%;
+  top: 100%
+>>>>>>> 5c726425ad3ad47a8d53db3f40832e6f7135d835
 }
