@@ -9,7 +9,7 @@ body { /* General style rules for the body section */
 }
 
 body {
-/*	background-image: url("/images/Twodoors.jpg");*/
+	background-image: url("/images/Twodoors.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -38,18 +38,6 @@ body {
 	left: 71%;
 }
 
-<<<<<<< HEAD
-#duck {
- width: 92px;
- height: 88px;
- background: url("/images/BurntDuckHorse.png") 0 0;
-}
-
-#panda {
- width: 43px;
- height: 44px;
- background: url("/images/Pandaonhorse.png") -91px 0;
-=======
 #div5{
 /*	border-style: solid groove; */
 	border-width: 5px;
@@ -61,5 +49,16 @@ body {
 	bottom: 100%;
 	left: 71%;
   top: 100%
->>>>>>> 5c726425ad3ad47a8d53db3f40832e6f7135d835
+}
+
+#div6{
+	border-width: 5px;
+	/* border-color: green; */
+	width: 10%;
+	height: 10%;
+	margin: 5%;
+	position: absolute;
+	bottom: 50%;
+	left: 71%;
+	top: 50%
 }
