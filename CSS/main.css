@@ -48,7 +48,7 @@ body {
 	position: absolute;
 	bottom: 100%;
 	left: 71%;
-  top: 100%
+  top: 100%;
 }
 
 #div6{
@@ -60,5 +60,39 @@ body {
 	position: absolute;
 	bottom: 50%;
 	left: 71%;
-	top: 50%
+	top: 50%;
+}
+
+#div7{
+	border-width: 5px;
+	/* border-color: green; */
+	width: 10%;
+	height: 10%;
+	margin: 5%;
+	position: absolute;
+	left: 71%;
+	top: 10%;
+}
+
+#div8{
+	border-width: 5px;
+	/* border-color: green; */
+	width: 10%;
+	height: 10%;
+	margin: 5%;
+	position: absolute;
+	bottom: 50%;
+	left: 10%;
+}
+
+#div9{
+	border-width: 5px;
+	/* border-color: green; */
+	width: 10%;
+	height: 10%;
+	margin: 5%;
+	position: absolute;
+	bottom: 50%;
+	left: 31%;
+	top: 50%;
 }
