@@ -9,7 +9,7 @@ body { /* General style rules for the body section */
 }
 
 body {
-	background-image: url("/images/Twodoors.jpg");
+	background-image: url("images/Twodoors.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
